@@ -370,13 +370,20 @@ cursor: pointer;
     gap: 100px;
     margin-top: 100px;
 }
+.zebra-p{
+    margin-top: 0px;
+    width: 55%;
+    color: white;
+    line-height: 1.5;
+
+}
 
 .zebra-img{
     width: 35%;
     height: max-content;
     background-size: cover;
     margin: 0px 20px;
-    margin-top: 280px;
+    margin-top: 20px;
     position: relative;
 }
 .zebra-img:hover{
